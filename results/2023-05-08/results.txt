@@ -1,0 +1,1743 @@
+*****
+HYBRID
+alpha is 0.5
+temperature of contrastive loss is 0.05
+Freq mask number 2 and length 32, and time mask number 1 and length is 32
+*****
+
+learning rate: 1.9e-05
+
+Epoch: 1/200... Train Loss: 6.4753... Val Loss: 6.5606
+train_loss1 is 5.4509 and train_loss2 is 1.0244
+val_loss1 is 5.5489 and val_loss2 is 1.0116
+train_acc is 0.1746 and val_acc is 0.1825
+Validation loss decreased (inf --> -0.182500).  Saving model...
+
+learning rate: 2.8000000000000003e-05
+
+Epoch: 2/200... Train Loss: 6.1991... Val Loss: 6.4645
+train_loss1 is 5.2072 and train_loss2 is 0.9920
+val_loss1 is 5.4803 and val_loss2 is 0.9843
+train_acc is 0.2257 and val_acc is 0.2225
+Validation loss decreased (-0.182500 --> -0.222500).  Saving model...
+
+learning rate: 3.7000000000000005e-05
+
+Epoch: 3/200... Train Loss: 5.6548... Val Loss: 6.3798
+train_loss1 is 4.6865 and train_loss2 is 0.9683
+val_loss1 is 5.4190 and val_loss2 is 0.9608
+train_acc is 0.2504 and val_acc is 0.2300
+Validation loss decreased (-0.222500 --> -0.230000).  Saving model...
+
+learning rate: 4.6e-05
+
+Epoch: 4/200... Train Loss: 5.4285... Val Loss: 5.7878
+train_loss1 is 4.4808 and train_loss2 is 0.9476
+val_loss1 is 4.8411 and val_loss2 is 0.9467
+train_acc is 0.2522 and val_acc is 0.2300
+Validation loss decreased (-0.230000 --> -0.230000).  Saving model...
+
+learning rate: 5.5e-05
+
+Epoch: 5/200... Train Loss: 5.1208... Val Loss: 6.6758
+train_loss1 is 4.1799 and train_loss2 is 0.9409
+val_loss1 is 5.7550 and val_loss2 is 0.9208
+train_acc is 0.2328 and val_acc is 0.2550
+Validation loss decreased (-0.230000 --> -0.255000).  Saving model...
+
+learning rate: 6.400000000000001e-05
+
+Epoch: 6/200... Train Loss: 4.7423... Val Loss: 5.8773
+train_loss1 is 3.8002 and train_loss2 is 0.9421
+val_loss1 is 4.9522 and val_loss2 is 0.9251
+train_acc is 0.2399 and val_acc is 0.2450
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 7.3e-05
+
+Epoch: 7/200... Train Loss: 4.4405... Val Loss: 5.8447
+train_loss1 is 3.4928 and train_loss2 is 0.9476
+val_loss1 is 4.9291 and val_loss2 is 0.9156
+train_acc is 0.2522 and val_acc is 0.2825
+Validation loss decreased (-0.255000 --> -0.282500).  Saving model...
+
+learning rate: 8.2e-05
+
+Epoch: 8/200... Train Loss: 4.1803... Val Loss: 4.8725
+train_loss1 is 3.2513 and train_loss2 is 0.9289
+val_loss1 is 3.9556 and val_loss2 is 0.9169
+train_acc is 0.2651 and val_acc is 0.2950
+Validation loss decreased (-0.282500 --> -0.295000).  Saving model...
+
+learning rate: 9.099999999999999e-05
+
+Epoch: 9/200... Train Loss: 4.2129... Val Loss: 4.7118
+train_loss1 is 3.2921 and train_loss2 is 0.9209
+val_loss1 is 3.7977 and val_loss2 is 0.9141
+train_acc is 0.2769 and val_acc is 0.2850
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 0.0001
+
+Epoch: 10/200... Train Loss: 4.0314... Val Loss: 5.4759
+train_loss1 is 3.1112 and train_loss2 is 0.9202
+val_loss1 is 4.5701 and val_loss2 is 0.9058
+train_acc is 0.2646 and val_acc is 0.3425
+Validation loss decreased (-0.295000 --> -0.342500).  Saving model...
+
+learning rate: 0.0001
+
+Epoch: 11/200... Train Loss: 4.1785... Val Loss: 4.6272
+train_loss1 is 3.2594 and train_loss2 is 0.9190
+val_loss1 is 3.7241 and val_loss2 is 0.9032
+train_acc is 0.3045 and val_acc is 0.3525
+Validation loss decreased (-0.342500 --> -0.352500).  Saving model...
+
+learning rate: 9.8e-05
+
+Epoch: 12/200... Train Loss: 3.6185... Val Loss: 4.5925
+train_loss1 is 2.7002 and train_loss2 is 0.9183
+val_loss1 is 3.6988 and val_loss2 is 0.8937
+train_acc is 0.2963 and val_acc is 0.3425
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 9.604e-05
+
+Epoch: 13/200... Train Loss: 3.7911... Val Loss: 4.6159
+train_loss1 is 2.8895 and train_loss2 is 0.9016
+val_loss1 is 3.7191 and val_loss2 is 0.8968
+train_acc is 0.3210 and val_acc is 0.3375
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 9.41192e-05
+
+Epoch: 14/200... Train Loss: 3.5288... Val Loss: 4.3182
+train_loss1 is 2.6284 and train_loss2 is 0.9005
+val_loss1 is 3.4325 and val_loss2 is 0.8857
+train_acc is 0.3239 and val_acc is 0.3525
+Validation loss decreased (-0.352500 --> -0.352500).  Saving model...
+
+learning rate: 9.2236816e-05
+
+Epoch: 15/200... Train Loss: 3.4949... Val Loss: 4.1918
+train_loss1 is 2.6025 and train_loss2 is 0.8924
+val_loss1 is 3.3166 and val_loss2 is 0.8752
+train_acc is 0.3427 and val_acc is 0.3650
+Validation loss decreased (-0.352500 --> -0.365000).  Saving model...
+
+learning rate: 9.039207968e-05
+
+Epoch: 16/200... Train Loss: 3.4269... Val Loss: 3.9164
+train_loss1 is 2.5318 and train_loss2 is 0.8951
+val_loss1 is 3.0602 and val_loss2 is 0.8562
+train_acc is 0.3392 and val_acc is 0.4350
+Validation loss decreased (-0.365000 --> -0.435000).  Saving model...
+
+learning rate: 8.858423808639999e-05
+
+Epoch: 17/200... Train Loss: 3.4306... Val Loss: 3.9970
+train_loss1 is 2.5245 and train_loss2 is 0.9061
+val_loss1 is 3.1402 and val_loss2 is 0.8567
+train_acc is 0.3568 and val_acc is 0.4200
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 8.681255332467199e-05
+
+Epoch: 18/200... Train Loss: 3.3114... Val Loss: 3.7275
+train_loss1 is 2.4249 and train_loss2 is 0.8865
+val_loss1 is 2.8577 and val_loss2 is 0.8699
+train_acc is 0.3521 and val_acc is 0.3875
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 8.507630225817855e-05
+
+Epoch: 19/200... Train Loss: 3.2761... Val Loss: 3.6322
+train_loss1 is 2.3961 and train_loss2 is 0.8801
+val_loss1 is 2.7971 and val_loss2 is 0.8351
+train_acc is 0.3516 and val_acc is 0.4125
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 8.337477621301498e-05
+
+Epoch: 20/200... Train Loss: 3.1804... Val Loss: 3.8808
+train_loss1 is 2.2846 and train_loss2 is 0.8958
+val_loss1 is 3.0467 and val_loss2 is 0.8340
+train_acc is 0.3533 and val_acc is 0.4475
+Validation loss decreased (-0.435000 --> -0.447500).  Saving model...
+
+learning rate: 8.170728068875468e-05
+
+Epoch: 21/200... Train Loss: 3.1435... Val Loss: 3.7452
+train_loss1 is 2.2755 and train_loss2 is 0.8680
+val_loss1 is 2.9074 and val_loss2 is 0.8378
+train_acc is 0.3721 and val_acc is 0.4325
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 8.00731350749796e-05
+
+Epoch: 22/200... Train Loss: 3.1760... Val Loss: 3.8586
+train_loss1 is 2.3133 and train_loss2 is 0.8627
+val_loss1 is 3.0440 and val_loss2 is 0.8146
+train_acc is 0.3733 and val_acc is 0.4250
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 7.847167237347999e-05
+
+Epoch: 23/200... Train Loss: 3.1610... Val Loss: 4.1800
+train_loss1 is 2.2989 and train_loss2 is 0.8620
+val_loss1 is 3.3585 and val_loss2 is 0.8216
+train_acc is 0.3927 and val_acc is 0.4575
+Validation loss decreased (-0.447500 --> -0.457500).  Saving model...
+
+learning rate: 7.690223892601038e-05
+
+Epoch: 24/200... Train Loss: 3.0775... Val Loss: 3.4144
+train_loss1 is 2.2321 and train_loss2 is 0.8453
+val_loss1 is 2.6046 and val_loss2 is 0.8098
+train_acc is 0.3833 and val_acc is 0.4600
+Validation loss decreased (-0.457500 --> -0.460000).  Saving model...
+
+learning rate: 7.536419414749018e-05
+
+Epoch: 25/200... Train Loss: 2.9976... Val Loss: 3.6722
+train_loss1 is 2.1556 and train_loss2 is 0.8421
+val_loss1 is 2.8877 and val_loss2 is 0.7845
+train_acc is 0.3886 and val_acc is 0.4550
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 7.385691026454039e-05
+
+Epoch: 26/200... Train Loss: 2.9869... Val Loss: 3.3828
+train_loss1 is 2.1473 and train_loss2 is 0.8396
+val_loss1 is 2.6209 and val_loss2 is 0.7619
+train_acc is 0.4086 and val_acc is 0.5025
+Validation loss decreased (-0.460000 --> -0.502500).  Saving model...
+
+learning rate: 7.237977205924956e-05
+
+Epoch: 27/200... Train Loss: 2.9758... Val Loss: 3.4335
+train_loss1 is 2.1362 and train_loss2 is 0.8395
+val_loss1 is 2.6817 and val_loss2 is 0.7518
+train_acc is 0.3998 and val_acc is 0.5400
+Validation loss decreased (-0.502500 --> -0.540000).  Saving model...
+
+learning rate: 7.093217661806457e-05
+
+Epoch: 28/200... Train Loss: 2.8904... Val Loss: 3.5071
+train_loss1 is 2.0574 and train_loss2 is 0.8330
+val_loss1 is 2.7573 and val_loss2 is 0.7498
+train_acc is 0.4051 and val_acc is 0.5450
+Validation loss decreased (-0.540000 --> -0.545000).  Saving model...
+
+learning rate: 6.951353308570328e-05
+
+Epoch: 29/200... Train Loss: 2.8675... Val Loss: 3.0603
+train_loss1 is 2.0550 and train_loss2 is 0.8125
+val_loss1 is 2.3190 and val_loss2 is 0.7412
+train_acc is 0.4292 and val_acc is 0.5525
+Validation loss decreased (-0.545000 --> -0.552500).  Saving model...
+
+learning rate: 6.812326242398921e-05
+
+Epoch: 30/200... Train Loss: 2.8269... Val Loss: 3.1879
+train_loss1 is 2.0122 and train_loss2 is 0.8147
+val_loss1 is 2.4689 and val_loss2 is 0.7191
+train_acc is 0.4544 and val_acc is 0.5525
+Validation loss decreased (-0.552500 --> -0.552500).  Saving model...
+
+learning rate: 6.676079717550943e-05
+
+Epoch: 31/200... Train Loss: 2.8064... Val Loss: 3.2027
+train_loss1 is 2.0020 and train_loss2 is 0.8043
+val_loss1 is 2.4728 and val_loss2 is 0.7299
+train_acc is 0.4674 and val_acc is 0.5600
+Validation loss decreased (-0.552500 --> -0.560000).  Saving model...
+
+learning rate: 6.542558123199923e-05
+
+Epoch: 32/200... Train Loss: 2.7855... Val Loss: 3.2930
+train_loss1 is 1.9791 and train_loss2 is 0.8064
+val_loss1 is 2.5784 and val_loss2 is 0.7146
+train_acc is 0.4509 and val_acc is 0.5850
+Validation loss decreased (-0.560000 --> -0.585000).  Saving model...
+
+learning rate: 6.411706960735925e-05
+
+Epoch: 33/200... Train Loss: 2.7336... Val Loss: 3.1650
+train_loss1 is 1.9422 and train_loss2 is 0.7914
+val_loss1 is 2.4608 and val_loss2 is 0.7042
+train_acc is 0.4709 and val_acc is 0.5500
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 6.283472821521206e-05
+
+Epoch: 34/200... Train Loss: 2.7879... Val Loss: 3.0427
+train_loss1 is 1.9978 and train_loss2 is 0.7901
+val_loss1 is 2.3444 and val_loss2 is 0.6983
+train_acc is 0.4697 and val_acc is 0.5725
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 6.157803365090782e-05
+
+Epoch: 35/200... Train Loss: 2.6352... Val Loss: 3.3062
+train_loss1 is 1.8674 and train_loss2 is 0.7678
+val_loss1 is 2.6128 and val_loss2 is 0.6935
+train_acc is 0.4727 and val_acc is 0.5725
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 6.034647297788967e-05
+
+Epoch: 36/200... Train Loss: 2.6610... Val Loss: 3.1428
+train_loss1 is 1.8890 and train_loss2 is 0.7720
+val_loss1 is 2.4731 and val_loss2 is 0.6697
+train_acc is 0.4762 and val_acc is 0.5950
+Validation loss decreased (-0.585000 --> -0.595000).  Saving model...
+
+learning rate: 5.9139543518331874e-05
+
+Epoch: 37/200... Train Loss: 2.6764... Val Loss: 3.0873
+train_loss1 is 1.9102 and train_loss2 is 0.7663
+val_loss1 is 2.4171 and val_loss2 is 0.6702
+train_acc is 0.4903 and val_acc is 0.5900
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 5.795675264796523e-05
+
+Epoch: 38/200... Train Loss: 2.6432... Val Loss: 3.2173
+train_loss1 is 1.8722 and train_loss2 is 0.7710
+val_loss1 is 2.5600 and val_loss2 is 0.6573
+train_acc is 0.4832 and val_acc is 0.6225
+Validation loss decreased (-0.595000 --> -0.622500).  Saving model...
+
+learning rate: 5.6797617595005923e-05
+
+Epoch: 39/200... Train Loss: 2.5497... Val Loss: 2.8944
+train_loss1 is 1.8058 and train_loss2 is 0.7439
+val_loss1 is 2.2449 and val_loss2 is 0.6495
+train_acc is 0.4950 and val_acc is 0.6300
+Validation loss decreased (-0.622500 --> -0.630000).  Saving model...
+
+learning rate: 5.566166524310581e-05
+
+Epoch: 40/200... Train Loss: 2.5310... Val Loss: 3.0410
+train_loss1 is 1.7874 and train_loss2 is 0.7435
+val_loss1 is 2.3941 and val_loss2 is 0.6469
+train_acc is 0.5250 and val_acc is 0.6050
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 5.454843193824369e-05
+
+Epoch: 41/200... Train Loss: 2.5063... Val Loss: 2.9909
+train_loss1 is 1.7750 and train_loss2 is 0.7312
+val_loss1 is 2.3548 and val_loss2 is 0.6362
+train_acc is 0.5144 and val_acc is 0.6150
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 5.345746329947882e-05
+
+Epoch: 42/200... Train Loss: 2.5392... Val Loss: 2.8732
+train_loss1 is 1.7972 and train_loss2 is 0.7419
+val_loss1 is 2.2572 and val_loss2 is 0.6160
+train_acc is 0.5056 and val_acc is 0.6275
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 5.2388314033489236e-05
+
+Epoch: 43/200... Train Loss: 2.5424... Val Loss: 2.9220
+train_loss1 is 1.8323 and train_loss2 is 0.7101
+val_loss1 is 2.3151 and val_loss2 is 0.6069
+train_acc is 0.5344 and val_acc is 0.6550
+Validation loss decreased (-0.630000 --> -0.655000).  Saving model...
+
+learning rate: 5.1340547752819454e-05
+
+Epoch: 44/200... Train Loss: 2.5293... Val Loss: 2.7457
+train_loss1 is 1.8265 and train_loss2 is 0.7028
+val_loss1 is 2.1548 and val_loss2 is 0.5909
+train_acc is 0.5291 and val_acc is 0.6475
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 5.0313736797763064e-05
+
+Epoch: 45/200... Train Loss: 2.4644... Val Loss: 3.0625
+train_loss1 is 1.7585 and train_loss2 is 0.7059
+val_loss1 is 2.4363 and val_loss2 is 0.6262
+train_acc is 0.5309 and val_acc is 0.6150
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 4.93074620618078e-05
+
+Epoch: 46/200... Train Loss: 2.4771... Val Loss: 2.6336
+train_loss1 is 1.7889 and train_loss2 is 0.6882
+val_loss1 is 2.0597 and val_loss2 is 0.5739
+train_acc is 0.5497 and val_acc is 0.6625
+Validation loss decreased (-0.655000 --> -0.662500).  Saving model...
+
+learning rate: 4.8321312820571645e-05
+
+Epoch: 47/200... Train Loss: 2.4810... Val Loss: 2.8910
+train_loss1 is 1.7827 and train_loss2 is 0.6983
+val_loss1 is 2.3151 and val_loss2 is 0.5759
+train_acc is 0.5438 and val_acc is 0.6575
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 4.7354886564160214e-05
+
+Epoch: 48/200... Train Loss: 2.4694... Val Loss: 2.9405
+train_loss1 is 1.7782 and train_loss2 is 0.6913
+val_loss1 is 2.3664 and val_loss2 is 0.5741
+train_acc is 0.5491 and val_acc is 0.6575
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 4.6407788832877e-05
+
+Epoch: 49/200... Train Loss: 2.3754... Val Loss: 2.8153
+train_loss1 is 1.6984 and train_loss2 is 0.6770
+val_loss1 is 2.2394 and val_loss2 is 0.5759
+train_acc is 0.5467 and val_acc is 0.6625
+Validation loss decreased (-0.662500 --> -0.662500).  Saving model...
+
+learning rate: 4.547963305621947e-05
+
+Epoch: 50/200... Train Loss: 2.4132... Val Loss: 2.7728
+train_loss1 is 1.7520 and train_loss2 is 0.6613
+val_loss1 is 2.1998 and val_loss2 is 0.5730
+train_acc is 0.5738 and val_acc is 0.6925
+Validation loss decreased (-0.662500 --> -0.692500).  Saving model...
+
+learning rate: 4.4570040395095074e-05
+
+Epoch: 51/200... Train Loss: 2.4120... Val Loss: 2.7380
+train_loss1 is 1.7328 and train_loss2 is 0.6792
+val_loss1 is 2.1972 and val_loss2 is 0.5409
+train_acc is 0.5597 and val_acc is 0.6750
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 4.367863958719317e-05
+
+Epoch: 52/200... Train Loss: 2.3763... Val Loss: 3.0303
+train_loss1 is 1.7191 and train_loss2 is 0.6572
+val_loss1 is 2.4973 and val_loss2 is 0.5331
+train_acc is 0.5632 and val_acc is 0.6925
+Validation loss decreased (-0.692500 --> -0.692500).  Saving model...
+
+learning rate: 4.2805066795449306e-05
+
+Epoch: 53/200... Train Loss: 2.3286... Val Loss: 3.0066
+train_loss1 is 1.6866 and train_loss2 is 0.6419
+val_loss1 is 2.4906 and val_loss2 is 0.5160
+train_acc is 0.5926 and val_acc is 0.6750
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 4.194896545954032e-05
+
+Epoch: 54/200... Train Loss: 2.3075... Val Loss: 3.0901
+train_loss1 is 1.6675 and train_loss2 is 0.6400
+val_loss1 is 2.5710 and val_loss2 is 0.5192
+train_acc is 0.5779 and val_acc is 0.6925
+Validation loss decreased (-0.692500 --> -0.692500).  Saving model...
+
+learning rate: 4.110998615034952e-05
+
+Epoch: 55/200... Train Loss: 2.2645... Val Loss: 2.7817
+train_loss1 is 1.6397 and train_loss2 is 0.6248
+val_loss1 is 2.2713 and val_loss2 is 0.5105
+train_acc is 0.6032 and val_acc is 0.7150
+Validation loss decreased (-0.692500 --> -0.715000).  Saving model...
+
+learning rate: 4.028778642734252e-05
+
+Epoch: 56/200... Train Loss: 2.3277... Val Loss: 2.9437
+train_loss1 is 1.6905 and train_loss2 is 0.6372
+val_loss1 is 2.4180 and val_loss2 is 0.5256
+train_acc is 0.5844 and val_acc is 0.7150
+Validation loss decreased (-0.715000 --> -0.715000).  Saving model...
+
+learning rate: 3.948203069879567e-05
+
+Epoch: 57/200... Train Loss: 2.2826... Val Loss: 2.6271
+train_loss1 is 1.6225 and train_loss2 is 0.6601
+val_loss1 is 2.1224 and val_loss2 is 0.5047
+train_acc is 0.6061 and val_acc is 0.7200
+Validation loss decreased (-0.715000 --> -0.720000).  Saving model...
+
+learning rate: 3.869239008481976e-05
+
+Epoch: 58/200... Train Loss: 2.2158... Val Loss: 2.5916
+train_loss1 is 1.6056 and train_loss2 is 0.6103
+val_loss1 is 2.1129 and val_loss2 is 0.4787
+train_acc is 0.6161 and val_acc is 0.7425
+Validation loss decreased (-0.720000 --> -0.742500).  Saving model...
+
+learning rate: 3.791854228312336e-05
+
+Epoch: 59/200... Train Loss: 2.2642... Val Loss: 2.7196
+train_loss1 is 1.6537 and train_loss2 is 0.6105
+val_loss1 is 2.2372 and val_loss2 is 0.4824
+train_acc is 0.6238 and val_acc is 0.7175
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 3.71601714374609e-05
+
+Epoch: 60/200... Train Loss: 2.2486... Val Loss: 2.8757
+train_loss1 is 1.6412 and train_loss2 is 0.6074
+val_loss1 is 2.4023 and val_loss2 is 0.4733
+train_acc is 0.6055 and val_acc is 0.7350
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 3.641696800871168e-05
+
+Epoch: 61/200... Train Loss: 2.1428... Val Loss: 2.5022
+train_loss1 is 1.5472 and train_loss2 is 0.5956
+val_loss1 is 2.0467 and val_loss2 is 0.4555
+train_acc is 0.6361 and val_acc is 0.7300
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 3.568862864853744e-05
+
+Epoch: 62/200... Train Loss: 2.1132... Val Loss: 2.5013
+train_loss1 is 1.5247 and train_loss2 is 0.5885
+val_loss1 is 2.0544 and val_loss2 is 0.4470
+train_acc is 0.6290 and val_acc is 0.7475
+Validation loss decreased (-0.742500 --> -0.747500).  Saving model...
+
+learning rate: 3.497485607556669e-05
+
+Epoch: 63/200... Train Loss: 2.1531... Val Loss: 2.4904
+train_loss1 is 1.5760 and train_loss2 is 0.5771
+val_loss1 is 2.0364 and val_loss2 is 0.4541
+train_acc is 0.6426 and val_acc is 0.7350
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 3.4275358954055356e-05
+
+Epoch: 64/200... Train Loss: 2.1034... Val Loss: 2.6619
+train_loss1 is 1.5228 and train_loss2 is 0.5806
+val_loss1 is 2.2137 and val_loss2 is 0.4483
+train_acc is 0.6432 and val_acc is 0.7400
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 3.358985177497425e-05
+
+Epoch: 65/200... Train Loss: 2.1232... Val Loss: 2.4276
+train_loss1 is 1.5571 and train_loss2 is 0.5662
+val_loss1 is 1.9779 and val_loss2 is 0.4497
+train_acc is 0.6514 and val_acc is 0.7425
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 3.2918054739474766e-05
+
+Epoch: 66/200... Train Loss: 2.1843... Val Loss: 2.4485
+train_loss1 is 1.6086 and train_loss2 is 0.5757
+val_loss1 is 2.0114 and val_loss2 is 0.4370
+train_acc is 0.6649 and val_acc is 0.7350
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 3.2259693644685266e-05
+
+Epoch: 67/200... Train Loss: 2.0908... Val Loss: 2.4640
+train_loss1 is 1.5429 and train_loss2 is 0.5478
+val_loss1 is 2.0382 and val_loss2 is 0.4258
+train_acc is 0.6602 and val_acc is 0.7575
+Validation loss decreased (-0.747500 --> -0.757500).  Saving model...
+
+learning rate: 3.1614499771791564e-05
+
+Epoch: 68/200... Train Loss: 2.0587... Val Loss: 2.3911
+train_loss1 is 1.5124 and train_loss2 is 0.5464
+val_loss1 is 1.9788 and val_loss2 is 0.4123
+train_acc is 0.6714 and val_acc is 0.7550
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 3.098220977635573e-05
+
+Epoch: 69/200... Train Loss: 2.0990... Val Loss: 2.4796
+train_loss1 is 1.5238 and train_loss2 is 0.5752
+val_loss1 is 2.0583 and val_loss2 is 0.4213
+train_acc is 0.6684 and val_acc is 0.7375
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 3.0362565580828616e-05
+
+Epoch: 70/200... Train Loss: 2.0487... Val Loss: 2.3917
+train_loss1 is 1.5026 and train_loss2 is 0.5461
+val_loss1 is 1.9727 and val_loss2 is 0.4190
+train_acc is 0.6673 and val_acc is 0.7350
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 2.9755314269212042e-05
+
+Epoch: 71/200... Train Loss: 2.0324... Val Loss: 2.2964
+train_loss1 is 1.4951 and train_loss2 is 0.5373
+val_loss1 is 1.9061 and val_loss2 is 0.3903
+train_acc is 0.6808 and val_acc is 0.7725
+Validation loss decreased (-0.757500 --> -0.772500).  Saving model...
+
+learning rate: 2.9160207983827804e-05
+
+Epoch: 72/200... Train Loss: 2.0574... Val Loss: 2.5561
+train_loss1 is 1.5328 and train_loss2 is 0.5246
+val_loss1 is 2.1587 and val_loss2 is 0.3974
+train_acc is 0.6790 and val_acc is 0.7650
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 2.8577003824151242e-05
+
+Epoch: 73/200... Train Loss: 1.9686... Val Loss: 2.2530
+train_loss1 is 1.4550 and train_loss2 is 0.5136
+val_loss1 is 1.8697 and val_loss2 is 0.3833
+train_acc is 0.6955 and val_acc is 0.7600
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 2.800546374766822e-05
+
+Epoch: 74/200... Train Loss: 1.9513... Val Loss: 2.2784
+train_loss1 is 1.4494 and train_loss2 is 0.5019
+val_loss1 is 1.8949 and val_loss2 is 0.3835
+train_acc is 0.7102 and val_acc is 0.7875
+Validation loss decreased (-0.772500 --> -0.787500).  Saving model...
+
+learning rate: 2.744535447271485e-05
+
+Epoch: 75/200... Train Loss: 1.9575... Val Loss: 2.1735
+train_loss1 is 1.4511 and train_loss2 is 0.5063
+val_loss1 is 1.8091 and val_loss2 is 0.3643
+train_acc is 0.6855 and val_acc is 0.7725
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 2.689644738326056e-05
+
+Epoch: 76/200... Train Loss: 1.9545... Val Loss: 2.1328
+train_loss1 is 1.4480 and train_loss2 is 0.5065
+val_loss1 is 1.7739 and val_loss2 is 0.3589
+train_acc is 0.7037 and val_acc is 0.7750
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 2.6358518435595347e-05
+
+Epoch: 77/200... Train Loss: 1.9249... Val Loss: 2.1041
+train_loss1 is 1.4324 and train_loss2 is 0.4925
+val_loss1 is 1.7435 and val_loss2 is 0.3606
+train_acc is 0.6884 and val_acc is 0.7775
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 2.583134806688344e-05
+
+Epoch: 78/200... Train Loss: 1.9541... Val Loss: 2.1468
+train_loss1 is 1.4670 and train_loss2 is 0.4871
+val_loss1 is 1.8004 and val_loss2 is 0.3464
+train_acc is 0.6914 and val_acc is 0.8100
+Validation loss decreased (-0.787500 --> -0.810000).  Saving model...
+
+learning rate: 2.5314721105545768e-05
+
+Epoch: 79/200... Train Loss: 1.8869... Val Loss: 2.0937
+train_loss1 is 1.4051 and train_loss2 is 0.4818
+val_loss1 is 1.7380 and val_loss2 is 0.3556
+train_acc is 0.7084 and val_acc is 0.7925
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 2.480842668343485e-05
+
+Epoch: 80/200... Train Loss: 1.9254... Val Loss: 2.1235
+train_loss1 is 1.4448 and train_loss2 is 0.4806
+val_loss1 is 1.7638 and val_loss2 is 0.3597
+train_acc is 0.7131 and val_acc is 0.7925
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 2.4312258149766155e-05
+
+Epoch: 81/200... Train Loss: 1.8915... Val Loss: 2.0704
+train_loss1 is 1.4092 and train_loss2 is 0.4823
+val_loss1 is 1.7252 and val_loss2 is 0.3452
+train_acc is 0.7225 and val_acc is 0.7700
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 2.3826012986770834e-05
+
+Epoch: 82/200... Train Loss: 1.8899... Val Loss: 2.0007
+train_loss1 is 1.4242 and train_loss2 is 0.4657
+val_loss1 is 1.6655 and val_loss2 is 0.3352
+train_acc is 0.7043 and val_acc is 0.8025
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 2.3349492727035415e-05
+
+Epoch: 83/200... Train Loss: 1.8624... Val Loss: 2.1684
+train_loss1 is 1.3949 and train_loss2 is 0.4674
+val_loss1 is 1.8257 and val_loss2 is 0.3427
+train_acc is 0.7055 and val_acc is 0.8000
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 2.2882502872494705e-05
+
+Epoch: 84/200... Train Loss: 1.8473... Val Loss: 2.0395
+train_loss1 is 1.3957 and train_loss2 is 0.4516
+val_loss1 is 1.7044 and val_loss2 is 0.3351
+train_acc is 0.7184 and val_acc is 0.8125
+Validation loss decreased (-0.810000 --> -0.812500).  Saving model...
+
+learning rate: 2.242485281504481e-05
+
+Epoch: 85/200... Train Loss: 1.8699... Val Loss: 2.0936
+train_loss1 is 1.4022 and train_loss2 is 0.4677
+val_loss1 is 1.7535 and val_loss2 is 0.3401
+train_acc is 0.7037 and val_acc is 0.8025
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 2.1976355758743913e-05
+
+Epoch: 86/200... Train Loss: 1.8769... Val Loss: 2.0191
+train_loss1 is 1.4167 and train_loss2 is 0.4602
+val_loss1 is 1.6885 and val_loss2 is 0.3305
+train_acc is 0.7243 and val_acc is 0.8000
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 2.1536828643569033e-05
+
+Epoch: 87/200... Train Loss: 1.8898... Val Loss: 2.1452
+train_loss1 is 1.4233 and train_loss2 is 0.4664
+val_loss1 is 1.7932 and val_loss2 is 0.3519
+train_acc is 0.7225 and val_acc is 0.7825
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 2.1106092070697655e-05
+
+Epoch: 88/200... Train Loss: 1.7801... Val Loss: 1.9712
+train_loss1 is 1.3451 and train_loss2 is 0.4349
+val_loss1 is 1.6474 and val_loss2 is 0.3238
+train_acc is 0.7225 and val_acc is 0.8100
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 2.06839702292837e-05
+
+Epoch: 89/200... Train Loss: 1.8056... Val Loss: 2.0094
+train_loss1 is 1.3637 and train_loss2 is 0.4419
+val_loss1 is 1.7005 and val_loss2 is 0.3090
+train_acc is 0.7302 and val_acc is 0.8000
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 2.0270290824698027e-05
+
+Epoch: 90/200... Train Loss: 1.7965... Val Loss: 1.9708
+train_loss1 is 1.3556 and train_loss2 is 0.4409
+val_loss1 is 1.6633 and val_loss2 is 0.3075
+train_acc is 0.7231 and val_acc is 0.7975
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 6 out of 20
+
+learning rate: 1.9864885008204065e-05
+
+Epoch: 91/200... Train Loss: 1.7761... Val Loss: 2.0380
+train_loss1 is 1.3251 and train_loss2 is 0.4510
+val_loss1 is 1.7293 and val_loss2 is 0.3087
+train_acc is 0.7337 and val_acc is 0.8050
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 7 out of 20
+
+learning rate: 1.9467587308039985e-05
+
+Epoch: 92/200... Train Loss: 1.8374... Val Loss: 1.9730
+train_loss1 is 1.3942 and train_loss2 is 0.4432
+val_loss1 is 1.6637 and val_loss2 is 0.3093
+train_acc is 0.7278 and val_acc is 0.8200
+Validation loss decreased (-0.812500 --> -0.820000).  Saving model...
+
+learning rate: 1.9078235561879186e-05
+
+Epoch: 93/200... Train Loss: 1.7797... Val Loss: 1.9589
+train_loss1 is 1.3545 and train_loss2 is 0.4252
+val_loss1 is 1.6609 and val_loss2 is 0.2981
+train_acc is 0.7378 and val_acc is 0.8125
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 1.86966708506416e-05
+
+Epoch: 94/200... Train Loss: 1.8170... Val Loss: 1.8309
+train_loss1 is 1.3857 and train_loss2 is 0.4312
+val_loss1 is 1.5281 and val_loss2 is 0.3027
+train_acc is 0.7296 and val_acc is 0.8000
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 1.8322737433628767e-05
+
+Epoch: 95/200... Train Loss: 1.8020... Val Loss: 1.8913
+train_loss1 is 1.3654 and train_loss2 is 0.4366
+val_loss1 is 1.5811 and val_loss2 is 0.3101
+train_acc is 0.7390 and val_acc is 0.8075
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 1.795628268495619e-05
+
+Epoch: 96/200... Train Loss: 1.7611... Val Loss: 1.8362
+train_loss1 is 1.3477 and train_loss2 is 0.4134
+val_loss1 is 1.5378 and val_loss2 is 0.2984
+train_acc is 0.7496 and val_acc is 0.8175
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 1.7597157031257068e-05
+
+Epoch: 97/200... Train Loss: 1.7599... Val Loss: 1.9208
+train_loss1 is 1.3365 and train_loss2 is 0.4234
+val_loss1 is 1.6209 and val_loss2 is 0.2999
+train_acc is 0.7419 and val_acc is 0.8125
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 1.7245213890631926e-05
+
+Epoch: 98/200... Train Loss: 1.7484... Val Loss: 2.0185
+train_loss1 is 1.3367 and train_loss2 is 0.4117
+val_loss1 is 1.7373 and val_loss2 is 0.2811
+train_acc is 0.7366 and val_acc is 0.8250
+Validation loss decreased (-0.820000 --> -0.825000).  Saving model...
+
+learning rate: 1.6900309612819287e-05
+
+Epoch: 99/200... Train Loss: 1.7326... Val Loss: 1.9920
+train_loss1 is 1.3122 and train_loss2 is 0.4204
+val_loss1 is 1.7034 and val_loss2 is 0.2886
+train_acc is 0.7425 and val_acc is 0.8175
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 1.65623034205629e-05
+
+Epoch: 100/200... Train Loss: 1.7273... Val Loss: 2.0124
+train_loss1 is 1.3138 and train_loss2 is 0.4135
+val_loss1 is 1.7065 and val_loss2 is 0.3059
+train_acc is 0.7390 and val_acc is 0.8100
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 1.6231057352151644e-05
+
+Epoch: 101/200... Train Loss: 1.6983... Val Loss: 1.8014
+train_loss1 is 1.3092 and train_loss2 is 0.3890
+val_loss1 is 1.5240 and val_loss2 is 0.2774
+train_acc is 0.7554 and val_acc is 0.8175
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 1.590643620510861e-05
+
+Epoch: 102/200... Train Loss: 1.8577... Val Loss: 2.0593
+train_loss1 is 1.4285 and train_loss2 is 0.4292
+val_loss1 is 1.7677 and val_loss2 is 0.2915
+train_acc is 0.7413 and val_acc is 0.8150
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 1.5588307481006436e-05
+
+Epoch: 103/200... Train Loss: 1.7374... Val Loss: 1.8298
+train_loss1 is 1.3287 and train_loss2 is 0.4087
+val_loss1 is 1.5349 and val_loss2 is 0.2949
+train_acc is 0.7402 and val_acc is 0.8275
+Validation loss decreased (-0.825000 --> -0.827500).  Saving model...
+
+learning rate: 1.527654133138631e-05
+
+Epoch: 104/200... Train Loss: 1.7649... Val Loss: 1.8759
+train_loss1 is 1.3456 and train_loss2 is 0.4192
+val_loss1 is 1.5879 and val_loss2 is 0.2880
+train_acc is 0.7354 and val_acc is 0.8250
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 1.4971010504758582e-05
+
+Epoch: 105/200... Train Loss: 1.7257... Val Loss: 1.7940
+train_loss1 is 1.3299 and train_loss2 is 0.3958
+val_loss1 is 1.5160 and val_loss2 is 0.2780
+train_acc is 0.7607 and val_acc is 0.8250
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 1.4671590294663409e-05
+
+Epoch: 106/200... Train Loss: 1.7039... Val Loss: 1.8775
+train_loss1 is 1.2986 and train_loss2 is 0.4053
+val_loss1 is 1.6156 and val_loss2 is 0.2619
+train_acc is 0.7484 and val_acc is 0.8275
+Validation loss decreased (-0.827500 --> -0.827500).  Saving model...
+
+learning rate: 1.4378158488770141e-05
+
+Epoch: 107/200... Train Loss: 1.6700... Val Loss: 1.9021
+train_loss1 is 1.2813 and train_loss2 is 0.3886
+val_loss1 is 1.6358 and val_loss2 is 0.2663
+train_acc is 0.7607 and val_acc is 0.8200
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 1.409059531899474e-05
+
+Epoch: 108/200... Train Loss: 1.7461... Val Loss: 1.7454
+train_loss1 is 1.3449 and train_loss2 is 0.4013
+val_loss1 is 1.4886 and val_loss2 is 0.2568
+train_acc is 0.7384 and val_acc is 0.8350
+Validation loss decreased (-0.827500 --> -0.835000).  Saving model...
+
+learning rate: 1.3808783412614842e-05
+
+Epoch: 109/200... Train Loss: 1.7246... Val Loss: 1.7935
+train_loss1 is 1.3317 and train_loss2 is 0.3929
+val_loss1 is 1.5285 and val_loss2 is 0.2651
+train_acc is 0.7701 and val_acc is 0.8425
+Validation loss decreased (-0.835000 --> -0.842500).  Saving model...
+
+learning rate: 1.3532607744362546e-05
+
+Epoch: 110/200... Train Loss: 1.6786... Val Loss: 1.8463
+train_loss1 is 1.2976 and train_loss2 is 0.3811
+val_loss1 is 1.5887 and val_loss2 is 0.2576
+train_acc is 0.7607 and val_acc is 0.8300
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 1.3261955589475295e-05
+
+Epoch: 111/200... Train Loss: 1.6399... Val Loss: 1.8978
+train_loss1 is 1.2536 and train_loss2 is 0.3863
+val_loss1 is 1.6131 and val_loss2 is 0.2847
+train_acc is 0.7690 and val_acc is 0.8200
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 1.2996716477685788e-05
+
+Epoch: 112/200... Train Loss: 1.6364... Val Loss: 1.8211
+train_loss1 is 1.2658 and train_loss2 is 0.3706
+val_loss1 is 1.5715 and val_loss2 is 0.2496
+train_acc is 0.7672 and val_acc is 0.8400
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 1.2736782148132073e-05
+
+Epoch: 113/200... Train Loss: 1.6724... Val Loss: 1.7464
+train_loss1 is 1.3030 and train_loss2 is 0.3695
+val_loss1 is 1.5041 and val_loss2 is 0.2423
+train_acc is 0.7578 and val_acc is 0.8450
+Validation loss decreased (-0.842500 --> -0.845000).  Saving model...
+
+learning rate: 1.2482046505169431e-05
+
+Epoch: 114/200... Train Loss: 1.7580... Val Loss: 1.8070
+train_loss1 is 1.3556 and train_loss2 is 0.4023
+val_loss1 is 1.5559 and val_loss2 is 0.2511
+train_acc is 0.7572 and val_acc is 0.8600
+Validation loss decreased (-0.845000 --> -0.860000).  Saving model...
+
+learning rate: 1.2232405575066044e-05
+
+Epoch: 115/200... Train Loss: 1.6537... Val Loss: 1.7853
+train_loss1 is 1.2929 and train_loss2 is 0.3608
+val_loss1 is 1.5501 and val_loss2 is 0.2351
+train_acc is 0.7743 and val_acc is 0.8550
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 1.1987757463564723e-05
+
+Epoch: 116/200... Train Loss: 1.6259... Val Loss: 1.7196
+train_loss1 is 1.2532 and train_loss2 is 0.3728
+val_loss1 is 1.4692 and val_loss2 is 0.2505
+train_acc is 0.7743 and val_acc is 0.8425
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 1.1748002314293427e-05
+
+Epoch: 117/200... Train Loss: 1.6311... Val Loss: 1.8271
+train_loss1 is 1.2612 and train_loss2 is 0.3699
+val_loss1 is 1.5666 and val_loss2 is 0.2605
+train_acc is 0.7672 and val_acc is 0.8300
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 1.1513042268007558e-05
+
+Epoch: 118/200... Train Loss: 1.6278... Val Loss: 1.7227
+train_loss1 is 1.2626 and train_loss2 is 0.3652
+val_loss1 is 1.4829 and val_loss2 is 0.2397
+train_acc is 0.7584 and val_acc is 0.8500
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 1.1282781422647407e-05
+
+Epoch: 119/200... Train Loss: 1.6314... Val Loss: 1.7129
+train_loss1 is 1.2604 and train_loss2 is 0.3710
+val_loss1 is 1.4706 and val_loss2 is 0.2423
+train_acc is 0.7584 and val_acc is 0.8350
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 1.1057125794194459e-05
+
+Epoch: 120/200... Train Loss: 1.6391... Val Loss: 1.6854
+train_loss1 is 1.2498 and train_loss2 is 0.3893
+val_loss1 is 1.4438 and val_loss2 is 0.2416
+train_acc is 0.7625 and val_acc is 0.8450
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 6 out of 20
+
+learning rate: 1.0835983278310569e-05
+
+Epoch: 121/200... Train Loss: 1.6192... Val Loss: 1.7769
+train_loss1 is 1.2565 and train_loss2 is 0.3626
+val_loss1 is 1.5367 and val_loss2 is 0.2402
+train_acc is 0.7660 and val_acc is 0.8450
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 7 out of 20
+
+learning rate: 1.0619263612744358e-05
+
+Epoch: 122/200... Train Loss: 1.5716... Val Loss: 1.7804
+train_loss1 is 1.2230 and train_loss2 is 0.3486
+val_loss1 is 1.5355 and val_loss2 is 0.2449
+train_acc is 0.7772 and val_acc is 0.8450
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 8 out of 20
+
+learning rate: 1.040687834048947e-05
+
+Epoch: 123/200... Train Loss: 1.5778... Val Loss: 1.6683
+train_loss1 is 1.2281 and train_loss2 is 0.3497
+val_loss1 is 1.4344 and val_loss2 is 0.2339
+train_acc is 0.7813 and val_acc is 0.8475
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 9 out of 20
+
+learning rate: 1.0198740773679681e-05
+
+Epoch: 124/200... Train Loss: 1.6810... Val Loss: 1.7287
+train_loss1 is 1.3213 and train_loss2 is 0.3597
+val_loss1 is 1.4996 and val_loss2 is 0.2291
+train_acc is 0.7743 and val_acc is 0.8575
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 10 out of 20
+
+learning rate: 9.994765958206086e-06
+
+Epoch: 125/200... Train Loss: 1.6046... Val Loss: 1.8093
+train_loss1 is 1.2593 and train_loss2 is 0.3453
+val_loss1 is 1.5659 and val_loss2 is 0.2435
+train_acc is 0.7772 and val_acc is 0.8450
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 11 out of 20
+
+learning rate: 9.794870639041964e-06
+
+Epoch: 126/200... Train Loss: 1.6053... Val Loss: 1.9971
+train_loss1 is 1.2422 and train_loss2 is 0.3631
+val_loss1 is 1.7533 and val_loss2 is 0.2439
+train_acc is 0.7648 and val_acc is 0.8425
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 12 out of 20
+
+learning rate: 9.598973226261125e-06
+
+Epoch: 127/200... Train Loss: 1.5870... Val Loss: 1.7525
+train_loss1 is 1.2403 and train_loss2 is 0.3467
+val_loss1 is 1.5230 and val_loss2 is 0.2295
+train_acc is 0.7760 and val_acc is 0.8600
+Validation loss decreased (-0.860000 --> -0.860000).  Saving model...
+
+learning rate: 9.406993761735902e-06
+
+Epoch: 128/200... Train Loss: 1.5662... Val Loss: 1.6392
+train_loss1 is 1.2252 and train_loss2 is 0.3410
+val_loss1 is 1.4105 and val_loss2 is 0.2287
+train_acc is 0.7778 and val_acc is 0.8475
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 9.218853886501185e-06
+
+Epoch: 129/200... Train Loss: 1.5840... Val Loss: 1.7951
+train_loss1 is 1.2331 and train_loss2 is 0.3509
+val_loss1 is 1.5619 and val_loss2 is 0.2332
+train_acc is 0.7831 and val_acc is 0.8525
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 9.034476808771162e-06
+
+Epoch: 130/200... Train Loss: 1.5422... Val Loss: 1.7830
+train_loss1 is 1.2074 and train_loss2 is 0.3349
+val_loss1 is 1.5558 and val_loss2 is 0.2272
+train_acc is 0.7878 and val_acc is 0.8550
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 8.853787272595737e-06
+
+Epoch: 131/200... Train Loss: 1.5569... Val Loss: 1.5829
+train_loss1 is 1.2133 and train_loss2 is 0.3435
+val_loss1 is 1.3597 and val_loss2 is 0.2232
+train_acc is 0.7778 and val_acc is 0.8425
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 8.676711527143822e-06
+
+Epoch: 132/200... Train Loss: 1.5323... Val Loss: 1.6044
+train_loss1 is 1.2011 and train_loss2 is 0.3312
+val_loss1 is 1.3848 and val_loss2 is 0.2197
+train_acc is 0.7837 and val_acc is 0.8450
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 8.503177296600947e-06
+
+Epoch: 133/200... Train Loss: 1.5425... Val Loss: 1.5941
+train_loss1 is 1.2133 and train_loss2 is 0.3292
+val_loss1 is 1.3771 and val_loss2 is 0.2170
+train_acc is 0.7931 and val_acc is 0.8525
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 6 out of 20
+
+learning rate: 8.333113750668926e-06
+
+Epoch: 134/200... Train Loss: 1.5607... Val Loss: 1.6428
+train_loss1 is 1.2194 and train_loss2 is 0.3413
+val_loss1 is 1.4325 and val_loss2 is 0.2104
+train_acc is 0.7889 and val_acc is 0.8575
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 7 out of 20
+
+learning rate: 8.166451475655548e-06
+
+Epoch: 135/200... Train Loss: 1.6381... Val Loss: 1.5911
+train_loss1 is 1.2764 and train_loss2 is 0.3617
+val_loss1 is 1.3779 and val_loss2 is 0.2132
+train_acc is 0.7790 and val_acc is 0.8600
+Validation loss decreased (-0.860000 --> -0.860000).  Saving model...
+
+learning rate: 8.003122446142438e-06
+
+Epoch: 136/200... Train Loss: 1.5440... Val Loss: 1.7467
+train_loss1 is 1.2040 and train_loss2 is 0.3400
+val_loss1 is 1.5083 and val_loss2 is 0.2383
+train_acc is 0.7807 and val_acc is 0.8450
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 7.843059997219589e-06
+
+Epoch: 137/200... Train Loss: 1.4883... Val Loss: 1.7881
+train_loss1 is 1.1705 and train_loss2 is 0.3178
+val_loss1 is 1.5530 and val_loss2 is 0.2351
+train_acc is 0.8007 and val_acc is 0.8450
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 7.686198797275195e-06
+
+Epoch: 138/200... Train Loss: 1.5785... Val Loss: 1.7254
+train_loss1 is 1.2452 and train_loss2 is 0.3333
+val_loss1 is 1.5044 and val_loss2 is 0.2210
+train_acc is 0.7854 and val_acc is 0.8700
+Validation loss decreased (-0.860000 --> -0.870000).  Saving model...
+
+learning rate: 7.532474821329692e-06
+
+Epoch: 139/200... Train Loss: 1.5421... Val Loss: 1.6536
+train_loss1 is 1.2029 and train_loss2 is 0.3393
+val_loss1 is 1.4449 and val_loss2 is 0.2087
+train_acc is 0.7972 and val_acc is 0.8800
+Validation loss decreased (-0.870000 --> -0.880000).  Saving model...
+
+learning rate: 7.381825324903098e-06
+
+Epoch: 140/200... Train Loss: 1.5383... Val Loss: 1.7922
+train_loss1 is 1.2077 and train_loss2 is 0.3305
+val_loss1 is 1.5760 and val_loss2 is 0.2163
+train_acc is 0.7907 and val_acc is 0.8575
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 7.234188818405035e-06
+
+Epoch: 141/200... Train Loss: 1.5888... Val Loss: 1.6864
+train_loss1 is 1.2426 and train_loss2 is 0.3461
+val_loss1 is 1.4616 and val_loss2 is 0.2249
+train_acc is 0.7878 and val_acc is 0.8575
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 7.089505042036936e-06
+
+Epoch: 142/200... Train Loss: 1.5454... Val Loss: 1.7610
+train_loss1 is 1.2098 and train_loss2 is 0.3356
+val_loss1 is 1.5366 and val_loss2 is 0.2245
+train_acc is 0.7948 and val_acc is 0.8475
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 6.947714941196197e-06
+
+Epoch: 143/200... Train Loss: 1.5211... Val Loss: 1.6988
+train_loss1 is 1.1922 and train_loss2 is 0.3289
+val_loss1 is 1.4834 and val_loss2 is 0.2154
+train_acc is 0.7907 and val_acc is 0.8675
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 6.808760642372272e-06
+
+Epoch: 144/200... Train Loss: 1.4978... Val Loss: 1.7088
+train_loss1 is 1.1827 and train_loss2 is 0.3151
+val_loss1 is 1.5054 and val_loss2 is 0.2033
+train_acc is 0.7960 and val_acc is 0.8750
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 6.672585429524826e-06
+
+Epoch: 145/200... Train Loss: 1.5104... Val Loss: 1.7978
+train_loss1 is 1.1809 and train_loss2 is 0.3295
+val_loss1 is 1.5883 and val_loss2 is 0.2095
+train_acc is 0.7984 and val_acc is 0.8725
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 6 out of 20
+
+learning rate: 6.53913372093433e-06
+
+Epoch: 146/200... Train Loss: 1.4942... Val Loss: 1.5289
+train_loss1 is 1.1756 and train_loss2 is 0.3186
+val_loss1 is 1.3215 and val_loss2 is 0.2074
+train_acc is 0.7901 and val_acc is 0.8700
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 7 out of 20
+
+learning rate: 6.408351046515644e-06
+
+Epoch: 147/200... Train Loss: 1.4946... Val Loss: 1.6090
+train_loss1 is 1.1776 and train_loss2 is 0.3170
+val_loss1 is 1.4026 and val_loss2 is 0.2064
+train_acc is 0.8019 and val_acc is 0.8700
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 8 out of 20
+
+learning rate: 6.28018402558533e-06
+
+Epoch: 148/200... Train Loss: 1.5379... Val Loss: 1.6944
+train_loss1 is 1.2167 and train_loss2 is 0.3212
+val_loss1 is 1.4800 and val_loss2 is 0.2145
+train_acc is 0.7866 and val_acc is 0.8800
+Validation loss decreased (-0.880000 --> -0.880000).  Saving model...
+
+learning rate: 6.154580345073624e-06
+
+Epoch: 149/200... Train Loss: 1.5303... Val Loss: 1.6754
+train_loss1 is 1.1914 and train_loss2 is 0.3389
+val_loss1 is 1.4718 and val_loss2 is 0.2036
+train_acc is 0.7960 and val_acc is 0.8900
+Validation loss decreased (-0.880000 --> -0.890000).  Saving model...
+
+learning rate: 6.031488738172151e-06
+
+Epoch: 150/200... Train Loss: 1.4587... Val Loss: 1.5037
+train_loss1 is 1.1485 and train_loss2 is 0.3102
+val_loss1 is 1.3024 and val_loss2 is 0.2013
+train_acc is 0.8066 and val_acc is 0.8800
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 5.910858963408708e-06
+
+Epoch: 151/200... Train Loss: 1.5040... Val Loss: 1.6084
+train_loss1 is 1.1859 and train_loss2 is 0.3181
+val_loss1 is 1.3958 and val_loss2 is 0.2126
+train_acc is 0.7954 and val_acc is 0.8825
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 5.792641784140534e-06
+
+Epoch: 152/200... Train Loss: 1.4758... Val Loss: 1.5993
+train_loss1 is 1.1599 and train_loss2 is 0.3159
+val_loss1 is 1.4070 and val_loss2 is 0.1923
+train_acc is 0.7919 and val_acc is 0.8850
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 5.676788948457723e-06
+
+Epoch: 153/200... Train Loss: 1.4765... Val Loss: 1.5127
+train_loss1 is 1.1562 and train_loss2 is 0.3203
+val_loss1 is 1.3231 and val_loss2 is 0.1896
+train_acc is 0.8160 and val_acc is 0.8900
+Validation loss decreased (-0.890000 --> -0.890000).  Saving model...
+
+learning rate: 5.563253169488568e-06
+
+Epoch: 154/200... Train Loss: 1.4885... Val Loss: 1.4662
+train_loss1 is 1.1768 and train_loss2 is 0.3117
+val_loss1 is 1.2728 and val_loss2 is 0.1933
+train_acc is 0.7942 and val_acc is 0.8775
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 5.4519881060987966e-06
+
+Epoch: 155/200... Train Loss: 1.4843... Val Loss: 1.6244
+train_loss1 is 1.1651 and train_loss2 is 0.3192
+val_loss1 is 1.4241 and val_loss2 is 0.2003
+train_acc is 0.8136 and val_acc is 0.8725
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 5.342948343976821e-06
+
+Epoch: 156/200... Train Loss: 1.4724... Val Loss: 1.6496
+train_loss1 is 1.1688 and train_loss2 is 0.3036
+val_loss1 is 1.4516 and val_loss2 is 0.1980
+train_acc is 0.8101 and val_acc is 0.8825
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 5.236089377097284e-06
+
+Epoch: 157/200... Train Loss: 1.5214... Val Loss: 1.4914
+train_loss1 is 1.1923 and train_loss2 is 0.3291
+val_loss1 is 1.3003 and val_loss2 is 0.1910
+train_acc is 0.8007 and val_acc is 0.8850
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 5.131367589555338e-06
+
+Epoch: 158/200... Train Loss: 1.4843... Val Loss: 1.5433
+train_loss1 is 1.1824 and train_loss2 is 0.3020
+val_loss1 is 1.3465 and val_loss2 is 0.1969
+train_acc is 0.8095 and val_acc is 0.8950
+Validation loss decreased (-0.890000 --> -0.895000).  Saving model...
+
+learning rate: 5.028740237764232e-06
+
+Epoch: 159/200... Train Loss: 1.4949... Val Loss: 1.7181
+train_loss1 is 1.1676 and train_loss2 is 0.3272
+val_loss1 is 1.5152 and val_loss2 is 0.2029
+train_acc is 0.7972 and val_acc is 0.8825
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 4.928165433008947e-06
+
+Epoch: 160/200... Train Loss: 1.4547... Val Loss: 1.5544
+train_loss1 is 1.1565 and train_loss2 is 0.2982
+val_loss1 is 1.3546 and val_loss2 is 0.1998
+train_acc is 0.8107 and val_acc is 0.8725
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 4.8296021243487675e-06
+
+Epoch: 161/200... Train Loss: 1.5187... Val Loss: 1.5967
+train_loss1 is 1.1931 and train_loss2 is 0.3255
+val_loss1 is 1.4121 and val_loss2 is 0.1846
+train_acc is 0.7889 and val_acc is 0.8900
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 4.733010081861792e-06
+
+Epoch: 162/200... Train Loss: 1.4838... Val Loss: 1.7098
+train_loss1 is 1.1649 and train_loss2 is 0.3189
+val_loss1 is 1.5105 and val_loss2 is 0.1993
+train_acc is 0.8101 and val_acc is 0.8825
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 4.638349880224557e-06
+
+Epoch: 163/200... Train Loss: 1.4473... Val Loss: 1.5241
+train_loss1 is 1.1455 and train_loss2 is 0.3018
+val_loss1 is 1.3439 and val_loss2 is 0.1802
+train_acc is 0.8078 and val_acc is 0.9000
+Validation loss decreased (-0.895000 --> -0.900000).  Saving model...
+
+learning rate: 4.545582882620066e-06
+
+Epoch: 164/200... Train Loss: 1.5546... Val Loss: 1.5114
+train_loss1 is 1.2343 and train_loss2 is 0.3202
+val_loss1 is 1.3267 and val_loss2 is 0.1848
+train_acc is 0.8142 and val_acc is 0.8825
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 4.454671224967664e-06
+
+Epoch: 165/200... Train Loss: 1.4874... Val Loss: 1.5936
+train_loss1 is 1.1780 and train_loss2 is 0.3094
+val_loss1 is 1.4008 and val_loss2 is 0.1928
+train_acc is 0.8148 and val_acc is 0.8900
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 4.365577800468311e-06
+
+Epoch: 166/200... Train Loss: 1.4791... Val Loss: 1.7036
+train_loss1 is 1.1711 and train_loss2 is 0.3080
+val_loss1 is 1.5110 and val_loss2 is 0.1926
+train_acc is 0.8054 and val_acc is 0.8750
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 4.278266244458945e-06
+
+Epoch: 167/200... Train Loss: 1.4416... Val Loss: 1.5456
+train_loss1 is 1.1423 and train_loss2 is 0.2993
+val_loss1 is 1.3665 and val_loss2 is 0.1791
+train_acc is 0.8101 and val_acc is 0.8950
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 4.192700919569765e-06
+
+Epoch: 168/200... Train Loss: 1.5513... Val Loss: 1.6059
+train_loss1 is 1.2219 and train_loss2 is 0.3294
+val_loss1 is 1.4176 and val_loss2 is 0.1884
+train_acc is 0.8036 and val_acc is 0.8875
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 4.10884690117837e-06
+
+Epoch: 169/200... Train Loss: 1.4395... Val Loss: 1.5684
+train_loss1 is 1.1457 and train_loss2 is 0.2938
+val_loss1 is 1.3794 and val_loss2 is 0.1890
+train_acc is 0.8113 and val_acc is 0.8775
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 6 out of 20
+
+learning rate: 4.026669963154802e-06
+
+Epoch: 170/200... Train Loss: 1.5607... Val Loss: 1.4542
+train_loss1 is 1.2310 and train_loss2 is 0.3297
+val_loss1 is 1.2759 and val_loss2 is 0.1783
+train_acc is 0.8060 and val_acc is 0.9000
+Validation loss decreased (-0.900000 --> -0.900000).  Saving model...
+
+learning rate: 3.946136563891706e-06
+
+Epoch: 171/200... Train Loss: 1.4887... Val Loss: 1.6289
+train_loss1 is 1.1779 and train_loss2 is 0.3108
+val_loss1 is 1.4407 and val_loss2 is 0.1882
+train_acc is 0.8054 and val_acc is 0.8825
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 3.867213832613872e-06
+
+Epoch: 172/200... Train Loss: 1.4388... Val Loss: 1.5138
+train_loss1 is 1.1402 and train_loss2 is 0.2986
+val_loss1 is 1.3390 and val_loss2 is 0.1748
+train_acc is 0.8178 and val_acc is 0.9100
+Validation loss decreased (-0.900000 --> -0.910000).  Saving model...
+
+learning rate: 3.7898695559615947e-06
+
+Epoch: 173/200... Train Loss: 1.3978... Val Loss: 1.4383
+train_loss1 is 1.1197 and train_loss2 is 0.2781
+val_loss1 is 1.2544 and val_loss2 is 0.1839
+train_acc is 0.8225 and val_acc is 0.9025
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 3.7140721648423624e-06
+
+Epoch: 174/200... Train Loss: 1.4625... Val Loss: 1.4842
+train_loss1 is 1.1695 and train_loss2 is 0.2930
+val_loss1 is 1.3006 and val_loss2 is 0.1836
+train_acc is 0.8131 and val_acc is 0.8900
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 3.6397907215455155e-06
+
+Epoch: 175/200... Train Loss: 1.4400... Val Loss: 1.4678
+train_loss1 is 1.1473 and train_loss2 is 0.2927
+val_loss1 is 1.2942 and val_loss2 is 0.1735
+train_acc is 0.8083 and val_acc is 0.8975
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 3.566994907114605e-06
+
+Epoch: 176/200... Train Loss: 1.4400... Val Loss: 1.4831
+train_loss1 is 1.1485 and train_loss2 is 0.2914
+val_loss1 is 1.3037 and val_loss2 is 0.1793
+train_acc is 0.8154 and val_acc is 0.8825
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 3.495655008972313e-06
+
+Epoch: 177/200... Train Loss: 1.4214... Val Loss: 1.5079
+train_loss1 is 1.1352 and train_loss2 is 0.2862
+val_loss1 is 1.3223 and val_loss2 is 0.1856
+train_acc is 0.8113 and val_acc is 0.9050
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 3.4257419087928665e-06
+
+Epoch: 178/200... Train Loss: 1.4405... Val Loss: 1.3753
+train_loss1 is 1.1446 and train_loss2 is 0.2959
+val_loss1 is 1.1996 and val_loss2 is 0.1757
+train_acc is 0.8083 and val_acc is 0.9050
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 6 out of 20
+
+learning rate: 3.3572270706170093e-06
+
+Epoch: 179/200... Train Loss: 1.4186... Val Loss: 1.4772
+train_loss1 is 1.1322 and train_loss2 is 0.2863
+val_loss1 is 1.3048 and val_loss2 is 0.1724
+train_acc is 0.8172 and val_acc is 0.9000
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 7 out of 20
+
+learning rate: 3.2900825292046687e-06
+
+Epoch: 180/200... Train Loss: 1.4573... Val Loss: 1.5234
+train_loss1 is 1.1445 and train_loss2 is 0.3128
+val_loss1 is 1.3309 and val_loss2 is 0.1924
+train_acc is 0.8172 and val_acc is 0.9050
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 8 out of 20
+
+learning rate: 3.2242808786205754e-06
+
+Epoch: 181/200... Train Loss: 1.4358... Val Loss: 1.4997
+train_loss1 is 1.1440 and train_loss2 is 0.2919
+val_loss1 is 1.3181 and val_loss2 is 0.1816
+train_acc is 0.8183 and val_acc is 0.9050
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 9 out of 20
+
+learning rate: 3.159795261048164e-06
+
+Epoch: 182/200... Train Loss: 1.4964... Val Loss: 1.6348
+train_loss1 is 1.1957 and train_loss2 is 0.3007
+val_loss1 is 1.4530 and val_loss2 is 0.1818
+train_acc is 0.8254 and val_acc is 0.9000
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 10 out of 20
+
+learning rate: 3.0965993558272005e-06
+
+Epoch: 183/200... Train Loss: 1.4128... Val Loss: 1.4576
+train_loss1 is 1.1300 and train_loss2 is 0.2828
+val_loss1 is 1.2902 and val_loss2 is 0.1674
+train_acc is 0.8136 and val_acc is 0.9050
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 11 out of 20
+
+learning rate: 3.0346673687106565e-06
+
+Epoch: 184/200... Train Loss: 1.4194... Val Loss: 1.5721
+train_loss1 is 1.1211 and train_loss2 is 0.2984
+val_loss1 is 1.4034 and val_loss2 is 0.1687
+train_acc is 0.8213 and val_acc is 0.9050
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 12 out of 20
+
+learning rate: 2.973974021336443e-06
+
+Epoch: 185/200... Train Loss: 1.4083... Val Loss: 1.5509
+train_loss1 is 1.1278 and train_loss2 is 0.2805
+val_loss1 is 1.3701 and val_loss2 is 0.1808
+train_acc is 0.8178 and val_acc is 0.8900
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 13 out of 20
+
+learning rate: 2.9144945409097145e-06
+
+Epoch: 186/200... Train Loss: 1.4519... Val Loss: 1.3517
+train_loss1 is 1.1549 and train_loss2 is 0.2970
+val_loss1 is 1.1848 and val_loss2 is 0.1669
+train_acc is 0.8148 and val_acc is 0.9200
+Validation loss decreased (-0.910000 --> -0.920000).  Saving model...
+
+learning rate: 2.8562046500915202e-06
+
+Epoch: 187/200... Train Loss: 1.4068... Val Loss: 1.5732
+train_loss1 is 1.1237 and train_loss2 is 0.2831
+val_loss1 is 1.3871 and val_loss2 is 0.1860
+train_acc is 0.8172 and val_acc is 0.8875
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 2.79908055708969e-06
+
+Epoch: 188/200... Train Loss: 1.4239... Val Loss: 1.5592
+train_loss1 is 1.1420 and train_loss2 is 0.2819
+val_loss1 is 1.3781 and val_loss2 is 0.1810
+train_acc is 0.8230 and val_acc is 0.9025
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 2.743098945947896e-06
+
+Epoch: 189/200... Train Loss: 1.4417... Val Loss: 1.4718
+train_loss1 is 1.1616 and train_loss2 is 0.2801
+val_loss1 is 1.3007 and val_loss2 is 0.1711
+train_acc is 0.8166 and val_acc is 0.8975
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 3 out of 20
+
+learning rate: 2.6882369670289375e-06
+
+Epoch: 190/200... Train Loss: 1.4136... Val Loss: 1.6002
+train_loss1 is 1.1282 and train_loss2 is 0.2854
+val_loss1 is 1.4180 and val_loss2 is 0.1822
+train_acc is 0.8178 and val_acc is 0.8850
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 4 out of 20
+
+learning rate: 2.634472227688359e-06
+
+Epoch: 191/200... Train Loss: 1.4082... Val Loss: 1.4116
+train_loss1 is 1.1295 and train_loss2 is 0.2787
+val_loss1 is 1.2481 and val_loss2 is 0.1635
+train_acc is 0.8254 and val_acc is 0.9175
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 5 out of 20
+
+learning rate: 2.5817827831345917e-06
+
+Epoch: 192/200... Train Loss: 1.4553... Val Loss: 1.5007
+train_loss1 is 1.1694 and train_loss2 is 0.2859
+val_loss1 is 1.3280 and val_loss2 is 0.1727
+train_acc is 0.7978 and val_acc is 0.9000
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 6 out of 20
+
+learning rate: 2.5301471274719e-06
+
+Epoch: 193/200... Train Loss: 1.4590... Val Loss: 1.5594
+train_loss1 is 1.1585 and train_loss2 is 0.3006
+val_loss1 is 1.3911 and val_loss2 is 0.1683
+train_acc is 0.8119 and val_acc is 0.9025
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 7 out of 20
+
+learning rate: 2.4795441849224616e-06
+
+Epoch: 194/200... Train Loss: 1.4474... Val Loss: 1.5098
+train_loss1 is 1.1532 and train_loss2 is 0.2942
+val_loss1 is 1.3328 and val_loss2 is 0.1770
+train_acc is 0.8242 and val_acc is 0.9125
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 8 out of 20
+
+learning rate: 2.4299533012240126e-06
+
+Epoch: 195/200... Train Loss: 1.4018... Val Loss: 1.5737
+train_loss1 is 1.1156 and train_loss2 is 0.2861
+val_loss1 is 1.3980 and val_loss2 is 0.1758
+train_acc is 0.8213 and val_acc is 0.9025
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 9 out of 20
+
+learning rate: 2.3813542351995325e-06
+
+Epoch: 196/200... Train Loss: 1.4315... Val Loss: 1.4771
+train_loss1 is 1.1532 and train_loss2 is 0.2782
+val_loss1 is 1.3153 and val_loss2 is 0.1618
+train_acc is 0.8301 and val_acc is 0.9100
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 10 out of 20
+
+learning rate: 2.3337271504955416e-06
+
+Epoch: 197/200... Train Loss: 1.4015... Val Loss: 1.4032
+train_loss1 is 1.1286 and train_loss2 is 0.2729
+val_loss1 is 1.2514 and val_loss2 is 0.1518
+train_acc is 0.8219 and val_acc is 0.9300
+Validation loss decreased (-0.920000 --> -0.930000).  Saving model...
+
+learning rate: 2.287052607485631e-06
+
+Epoch: 198/200... Train Loss: 1.4129... Val Loss: 1.5340
+train_loss1 is 1.1313 and train_loss2 is 0.2816
+val_loss1 is 1.3395 and val_loss2 is 0.1945
+train_acc is 0.8266 and val_acc is 0.8950
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+
+learning rate: 2.241311555335918e-06
+
+Epoch: 199/200... Train Loss: 1.4101... Val Loss: 1.4310
+train_loss1 is 1.1315 and train_loss2 is 0.2787
+val_loss1 is 1.2641 and val_loss2 is 0.1669
+train_acc is 0.8154 and val_acc is 0.9100
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 2 out of 20
+
+learning rate: 2.1964853242291997e-06
+
+Epoch: 200/200... Train Loss: 1.4144... Val Loss: 1.3548
+train_loss1 is 1.1304 and train_loss2 is 0.2840
+val_loss1 is 1.1967 and val_loss2 is 0.1581
+train_acc is 0.8260 and val_acc is 0.9300
+Validation loss decreased (-0.930000 --> -0.930000).  Saving model...

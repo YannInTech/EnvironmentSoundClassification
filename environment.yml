@@ -1,0 +1,14 @@
+name: tramways
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - torch
+    - soundfile
+    - torchvision
+    - torchaudio
+    - numpy
+    - matplotlib
+    - notebook
